@@ -1,0 +1,11 @@
+pair,category,test,p,sig,note
+Glasses,concrete,Chi-square,0.4758,ns,4 cells with expected < 5
+Dog,concrete,Chi-square,0.3232,ns,8 cells with expected < 5
+Cloud,concrete,Chi-square,0.107,ns,4 cells with expected < 5
+Salt,concrete,Chi-square,0.0569,ns,4 cells with expected < 5
+Time,abstract,Chi-square,0.0034,**,2 cells with expected < 5
+Shyness,emotional,Chi-square,0.6551,ns,4 cells with expected < 5
+Blessing,emotional,Chi-square,0.9473,ns,6 cells with expected < 5
+Neighbourhood,concrete,Chi-square,0.4779,ns,6 cells with expected < 5
+Values,abstract,Chi-square,0.0072,**,2 cells with expected < 5
+Opportunity,abstract,Chi-square,0.0007,***,6 cells with expected < 5

@@ -1,0 +1,21 @@
+pair,cue_language,n,n_hindi_response,prop_hindi_response,test,p,sig,note
+Glasses,english,22,3,0.136,Fisher's exact,1.0,ns,used Fisher due to low expected counts
+Glasses,hindi,22,2,0.091,Fisher's exact,1.0,ns,used Fisher due to low expected counts
+Dog,english,22,1,0.045,Chi-square,0.0001,***,
+Dog,hindi,22,13,0.591,Chi-square,0.0001,***,
+Cloud,english,22,2,0.091,Chi-square,0.0029,**,
+Cloud,hindi,22,11,0.5,Chi-square,0.0029,**,
+Salt,english,22,1,0.045,Chi-square,0.0007,***,
+Salt,hindi,22,11,0.5,Chi-square,0.0007,***,
+Time,english,22,3,0.136,Chi-square,0.0096,**,
+Time,hindi,22,11,0.5,Chi-square,0.0096,**,
+Shyness,english,22,1,0.045,Chi-square,0.004,**,
+Shyness,hindi,22,9,0.409,Chi-square,0.004,**,
+Blessing,english,22,1,0.045,Chi-square,0.0012,**,
+Blessing,hindi,22,10,0.455,Chi-square,0.0012,**,
+Neighbourhood,english,22,3,0.136,Chi-square,0.0817,ns,
+Neighbourhood,hindi,22,8,0.364,Chi-square,0.0817,ns,
+Values,english,22,1,0.045,Fisher's exact,0.0459,*,used Fisher due to low expected counts
+Values,hindi,22,7,0.318,Fisher's exact,0.0459,*,used Fisher due to low expected counts
+Opportunity,english,22,4,0.182,Chi-square,0.255,ns,
+Opportunity,hindi,22,7,0.318,Chi-square,0.255,ns,

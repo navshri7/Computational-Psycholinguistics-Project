@@ -1,0 +1,11 @@
+pair,category,n_english_unique,n_hindi_unique,n_shared,n_union,jaccard,shared_responses
+Neighbourhood,concrete,17,18,1,34,0.029,neighbour
+Values,abstract,18,18,1,35,0.029,good
+Opportunity,abstract,16,12,1,27,0.037,chance
+Time,abstract,17,7,1,23,0.043,watch
+Shyness,emotional,19,20,3,36,0.083,"agrim, blush, jhijak"
+Blessing,emotional,12,12,2,22,0.091,"elders, parents"
+Glasses,concrete,15,15,3,27,0.111,"agrim, broken, specs"
+Dog,concrete,9,10,2,17,0.118,"biscuit, cat"
+Salt,concrete,15,13,3,25,0.12,"chini, food, sea"
+Cloud,concrete,10,15,3,22,0.136,"baarish, rain, sky"

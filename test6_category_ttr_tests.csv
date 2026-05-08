@@ -1,0 +1,4 @@
+category,mean_ttr_english,mean_ttr_hindi,test,p,sig
+concrete,0.6,0.646,Chi-square,0.4868,ns
+abstract,0.773,0.56,Chi-square,0.0097,**
+emotional,0.704,0.727,Chi-square,0.8131,ns
